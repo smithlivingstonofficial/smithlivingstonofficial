@@ -30,22 +30,60 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Full-Stack Developer from **Tamil Nadu, India**, with a passion for building scalable web applications and creating intuitive user experiences. I thrive on solving complex problems and am constantly exploring new technologies to enhance my skills.
+I am a passionate and results-driven developer from **Tamil Nadu, India**. As a recent BCA graduate and current MCA student, I am actively seeking to apply my skills in a challenging and growth-oriented environment. I specialize in front-end development with a strong focus on creating seamless and engaging user experiences.
 
-- 🔭 **I’m currently working on:** A SaaS platform for project management.
-- 🌱 **I’m currently learning:** Advanced TypeScript, GraphQL, and cloud-native technologies.
-- 👯 **I’m looking to collaborate on:** Innovative open-source projects that make a difference.
-- 🤔 **I’m looking for help with:** Advanced performance optimization techniques.
-- 💬 **Ask me about:** React, Node.js, System Design, or anything tech-related!
+- 🎓 **Education:** Bachelor of Computer Applications (BCA), Currently Pursuing Master of Computer Applications (MCA - 1st Year).
+- 💡 **Interests:** Building scalable web applications, mobile app development, and UI/UX design.
+- 🤝 **Collaboration:** I'm open to collaborating on innovative open-source projects.
 
 ---
 
 ### 🛠️ My Tech Stack
+
+**Front-End Development:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,mongodb,postgres,docker,git,aws,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
   </a>
 </p>
+
+**Mobile App Development:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,native" />
+  </a>
+</p>
+
+**Backend & Database:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
+  </a>
+</p>
+
+**CMS & Design:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,figma,xd" />
+  </a>
+</p>
+
+**Tools & Technologies:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  </a>
+</p>
+
+---
+
+### 🚀 My Projects
+
+I have experience developing and publishing applications. Here are a few highlights:
+
+*   **Web Applications:** I have developed dynamic and responsive web applications using React.js and Firebase, focusing on creating intuitive user interfaces.
+*   **Android Applications:** I have built and published Android applications using React Native. You can find my work on the Google Play Store under the developer name **ElLabs**.
+    *   <a href="https://play.google.com/store/apps/dev?id=7449850303016314686" target="_blank">**View My Apps on Google Play**</a>
 
 ---
 
