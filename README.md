@@ -2,18 +2,19 @@
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Smith Livingston | Full-Stack Developer
+    Hi, I'm <span style="color:#4db6ac;">Smith Livingston</span> 👨‍💻 | Full-Stack Developer
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-<!-- Social Links -->
+<!-- Connect with Me -->
 <div align="center">
+  <h3>🤝 Connect with Me</h3>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://your-portfolio-website.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -23,75 +24,72 @@
   </a>
 </div>
 
-<div align="center"> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=smithlivingstonofficial.smithlivingstonofficial" alt="visitors"/>
+<!-- Visitor Count -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=smithlivingstonofficial&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="visitors"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate and results-driven developer from **Tamil Nadu, India**. As a recent BCA graduate and current MCA student, I am actively seeking to apply my skills in a challenging and growth-oriented environment. I specialize in front-end development with a strong focus on creating seamless and engaging user experiences.
+I'm a passionate **Full-Stack Developer** from **Tamil Nadu, India**, with a strong focus on building user-friendly and scalable digital solutions.
 
-- 🎓 **Education:** Bachelor of Computer Applications (BCA), Currently Pursuing Master of Computer Applications (MCA - 1st Year).
-- 💡 **Interests:** Building scalable web applications, mobile app development, and UI/UX design.
-- 🤝 **Collaboration:** I'm open to collaborating on innovative open-source projects.
+- 🎓 **Education:** BCA graduate, currently pursuing MCA (1st Year).
+- 💡 **Interests:** Full-stack development, mobile apps, and UI/UX design.
+- 🤝 **Collaboration:** Open to working on open-source and innovative projects.
+- 🚀 **Goal:** To build impactful products that make technology more accessible.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-**Front-End Development:**
+**Frontend Development**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite"/>
 </p>
 
-**Mobile App Development:**
+**Mobile Development**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,native" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,native"/>
 </p>
 
-**Backend & Database:**
+**Backend & Databases**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb"/>
 </p>
 
-**CMS & Design:**
+**CMS & Design Tools**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,figma,xd" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=wordpress,figma,xd"/>
 </p>
 
-**Tools & Technologies:**
+**Tools & Platforms**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-### 🚀 My Projects
+### 🚀 Projects
 
-I have experience developing and publishing applications. Here are a few highlights:
-
-*   **Web Applications:** I have developed dynamic and responsive web applications using React.js and Firebase, focusing on creating intuitive user interfaces.
-*   **Android Applications:** I have built and published Android applications using React Native. You can find my work on the Google Play Store under the developer name **ElLabs**.
-    *   <a href="https://play.google.com/store/apps/dev?id=7449850303016314686" target="_blank">**View My Apps on Google Play**</a>
+- **Web Apps:** Dynamic & responsive apps built with React.js + Firebase.
+- **Mobile Apps:** Published Android apps using React Native under the developer name **ElLabs**.
+  - <a href="https://play.google.com/store/apps/dev?id=7449850303016314686" target="_blank">📱 View on Google Play</a>
 
 ---
 
-### 🔥 My GitHub Stats
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smithlivingstonofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithlivingstonofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithlivingstonofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smithlivingstonofficial&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Smith's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithlivingstonofficial&theme=tokyonight&hide_border=true" alt="Smith's GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithlivingstonofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Smith's Top Languages"/>
 </div>
 
 ---
+
+<p align="center">
+  ✨ <i>"Code is not just about solving problems, it’s about creating experiences."</i> ✨
+</p>
